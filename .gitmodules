@@ -6,3 +6,7 @@
 	path = examples/valibot
 	url = git@github.com:ciscoheat/superforms-examples-base.git
 	branch = valibot
+[submodule "examples/main"]
+	path = examples/main
+	url = git@github.com:ciscoheat/superforms-examples-base.git
+	branch = main
