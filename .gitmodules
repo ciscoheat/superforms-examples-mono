@@ -4,3 +4,5 @@
 [submodule "examples/valibot"]
 	path = examples/valibot
 	url = https://github.com/ciscoheat/superforms-examples-base.git
+[submodule "valibot"]
+	branch = valibot
