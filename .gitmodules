@@ -1,0 +1,6 @@
+[submodule "examples/zod"]
+	path = examples/zod
+	url = https://github.com/ciscoheat/superforms-examples-base.git
+[submodule "examples/valibot"]
+	path = examples/valibot
+	url = https://github.com/ciscoheat/superforms-examples-base.git
