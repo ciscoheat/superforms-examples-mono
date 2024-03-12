@@ -1,3 +1,8 @@
 [submodule "examples/zod"]
 	path = examples/zod
-	url = https://github.com/ciscoheat/superforms-examples-base.git
+	url = git@github.com:ciscoheat/superforms-examples-base.git
+	branch = zod
+[submodule "examples/valibot"]
+	path = examples/valibot
+	url = git@github.com:ciscoheat/superforms-examples-base.git
+	branch = valibot
